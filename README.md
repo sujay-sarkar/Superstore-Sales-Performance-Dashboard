@@ -1,4 +1,4 @@
-Sales Dashboard | Power BI
+Sales Performance Dashboard | Power BI
 
 Overview
 
