@@ -1,6 +1,6 @@
 Superstore Sales Performance Dashboard | Power BI
 
-Overview
+Project Overview
 
     This project is an interactive Sales Analytics Dashboard built in Power BI to analyze sales performance, profit, and order trends across time, regions, categories, and customer segments. The dashboard is designed for quick analysis and easy decision-making.
 
