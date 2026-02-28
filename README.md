@@ -1,4 +1,4 @@
-Sales Performance Dashboard | Power BI
+Superstore Sales Performance Dashboard | Power BI
 
 Overview
 
